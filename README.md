@@ -1,6 +1,7 @@
 # GetCID API and PIDMS License Checker API Documentation
 
 Welcome to the **GetCID** and **PIDMS License Checker** API documentation. This guide provides detailed information on integrating our APIs into your applications for seamless Microsoft product activation and license validation.
+**If you just want to Get CID then go to our GetCID Website link**: [GetCID Services](https://msconfirmationid.com/get-confirmation-id/)
 
 ---
 
