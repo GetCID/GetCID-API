@@ -132,7 +132,7 @@ Content-Type: application/json
 
 If you have any questions or need support, feel free to reach out:
 
-- **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)
+- **Telegram**: [@CIDAdmin](https://t.me/cidadmin)
 - **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)
 - **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)
 - **Website**: [GetCID Services](https://msconfirmationid.com/get-confirmation-id/)
